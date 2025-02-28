@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|c:\\users\\user\\downloads\\salonfinal\\beauty-main\\pages\\servicesgrud.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|solutionrelative:pages\\servicesgrud.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\pages\\signupclient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|solutionrelative:pages\\signupclient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\pages\\signupclient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|solutionrelative:pages\\signupclient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\pages\\servicesgrud.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|solutionrelative:pages\\servicesgrud.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\pages\\upcoming.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|solutionrelative:pages\\upcoming.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\pages\\serviceform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|solutionrelative:pages\\serviceform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\pages\\serviceform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|solutionrelative:pages\\serviceform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\pages\\modepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|solutionrelative:pages\\modepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|solutionrelative:helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\pages\\modepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|solutionrelative:pages\\modepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\models\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|solutionrelative:models\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|solutionrelative:models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{2D387630-F019-4A44-83BC-600C7E2356F7}|WpfBeauty.csproj|solutionrelative:models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicesGRUD.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Pages\\ServicesGRUD.xaml",
+              "RelativeDocumentMoniker": "Pages\\ServicesGRUD.xaml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Pages\\ServicesGRUD.xaml",
+              "RelativeToolTip": "Pages\\ServicesGRUD.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-25T10:28:58.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Upcoming.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Pages\\Upcoming.xaml",
+              "RelativeDocumentMoniker": "Pages\\Upcoming.xaml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Pages\\Upcoming.xaml",
+              "RelativeToolTip": "Pages\\Upcoming.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T21:55:36.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicesGRUD.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Pages\\ServicesGRUD.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ServicesGRUD.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Pages\\ServicesGRUD.xaml.cs",
+              "RelativeToolTip": "Pages\\ServicesGRUD.xaml.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwEYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:30:15.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignUpClient.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Pages\\SignUpClient.xaml",
+              "RelativeDocumentMoniker": "Pages\\SignUpClient.xaml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Pages\\SignUpClient.xaml",
+              "RelativeToolTip": "Pages\\SignUpClient.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T21:47:10.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Pages\\ServiceForm.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ServiceForm.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Pages\\ServiceForm.xaml.cs",
+              "RelativeToolTip": "Pages\\ServiceForm.xaml.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAgwPAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:10:06.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceForm.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Pages\\ServiceForm.xaml",
+              "RelativeDocumentMoniker": "Pages\\ServiceForm.xaml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Pages\\ServiceForm.xaml",
+              "RelativeToolTip": "Pages\\ServiceForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-10T08:15:22.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUpClient.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Pages\\SignUpClient.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\SignUpClient.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Pages\\SignUpClient.xaml.cs",
+              "RelativeToolTip": "Pages\\SignUpClient.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:47:22.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModePage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Pages\\ModePage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ModePage.xaml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Pages\\ModePage.xaml",
+              "RelativeToolTip": "Pages\\ModePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T21:47:29.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Helper.cs",
+              "RelativeDocumentMoniker": "Helper.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Helper.cs",
+              "RelativeToolTip": "Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:47:56.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Models\\ClientService.cs",
+              "RelativeDocumentMoniker": "Models\\ClientService.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Models\\ClientService.cs",
+              "RelativeToolTip": "Models\\ClientService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:50:08.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Models\\Service.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Models\\Service.cs",
+              "RelativeToolTip": "Models\\Service.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:48:51.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-12-24T21:46:15.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:08:43.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Pages\\ModePage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ModePage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\Pages\\ModePage.xaml.cs",
+              "RelativeToolTip": "Pages\\ModePage.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:47:33.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SalonFinal\\beauty-main\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T22:05:13.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

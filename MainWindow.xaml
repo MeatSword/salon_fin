@@ -1,0 +1,35 @@
+﻿<Window x:Class="WpfBeauty.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfBeauty"
+        mc:Ignorable="d"
+        FontFamily="Tahoma"
+        Icon="Resources/beauty_logo.ico"
+        Title="Салон красоты" MinHeight="450" MinWidth="600">
+    <Border BorderThickness="1" BorderBrush="#FF4A6D">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0" Background="#FF7986DE">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Image Grid.Column="1" Source="Resources/beauty_logo.png" Width="30" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,5,10,5"/>
+                    <Button Grid.Column="0" x:Name="BtnBack" Content="&lt;" Height="30" Width="30" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="10,5,0,5" Click="BtnBack_Click" Background="#FF4A6D"/>
+                </Grid>
+            </StackPanel>
+            <StackPanel Grid.Row="2" Background="#FF7986DE" Height="auto" Width="auto"/>
+
+            <Frame Grid.Row="1" x:Name="Frame" Height="auto" Width="auto" ContentRendered="Frame_ContentRendered" LoadCompleted="Frame_LoadCompleted" NavigationUIVisibility="Hidden"/>
+
+        </Grid>
+    </Border>
+</Window>
